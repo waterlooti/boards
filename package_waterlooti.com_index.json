@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "websiteURL": "https://github.com/waterlooti/boards",
+            "tools": [],
+            "name": "waterlooti",
+            "email": "phil.hilger@waterlooti.com",
+            "help": {
+                "online": "https://github.com/waterlooti/boards"
+            },
+            "maintainer": "Waterloo Tech Inc.",
+            "platforms": [
+                {
+                    "boards": [
+                        {
+                            "name": "Demo"
+                        }
+                    ],
+                    "architecture": "samd",
+                    "name": "Demo",
+                    "category": "Contributed",
+                    "version": "1.0.0",
+                    "archiveFileName": "demo-1.0.0.tar.bz2",
+                    "checksum": "SHA-256:bcc67363b0c7040084655a04867ab8bdb4e668b60d07cac805fef756b1875c19",
+                    "help": {
+                        "online": "https://github.com/waterlooti/boards"
+                    },
+                    "url": "https://waterlooti.github.io/boards",
+                    "toolsDependencies": [],
+                    "size": "404979"
+                }
+            ]
+        }
+    ]
+}
